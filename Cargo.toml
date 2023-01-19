@@ -1,0 +1,12 @@
+[package]
+name = "word_gussing_game"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.3"
+console = "0.15.2"
+question = "0.2.2"
+inquire = "0.5.2"
